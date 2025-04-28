@@ -1,7 +1,7 @@
-
 fastapi
 uvicorn
 tensorflow
 tensorflow-hub
 pillow
 numpy
+python-multipart
